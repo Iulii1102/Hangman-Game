@@ -1,4 +1,4 @@
-# Hangman-Game# Hangman Game
+# Hangman Game
 A terminal Hangman Game against the computer.
 
 ## Before starting
